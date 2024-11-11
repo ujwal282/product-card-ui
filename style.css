@@ -124,6 +124,10 @@
 
 }
 
+.cart-btn button:active{
+  background-color: var(--color-very-dark-blue);
+}
+
 .cart-btn svg{
   position: absolute;
   left: 50px;
